@@ -3,7 +3,7 @@
 A real-time sentiment analysis application that evaluates product reviews to provide "Buy" or "Don't Buy" recommendations.
 
 ## 🚀 Live Demo
-[Click here to try the app!](https://ashmitha188-product-sentiment-app.streamlit.app/)
+[Click here to try the app!](https://appuct-sentiment-app-jhe9xiwzev38krlxur5wpr.streamlit.app/)
 
 ## ✨ Features
 * *Real-time Sentiment Scoring:* Uses the VADER (Valence Aware Dictionary and sEntiment Reasoner) algorithm.
